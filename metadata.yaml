@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5355'
     url: http://www.gutenberg.org/2009/agents/5355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43332#Das-L-mmchen
 gutenberg_issued: '2013-07-28'
 gutenberg_type: Text
 identifiers:
